@@ -1,6 +1,3 @@
-Here is the complete, streamlined `README.md` code. All the messy formatting has been cleaned up so it looks perfectly neat in your text editor, the e-commerce features are fully detailed, the step-by-step phone connection guide is included, and your custom proprietary license is securely locked at the bottom.
-
-```markdown
 # Abaya Designer 👗✨
 
 An elegant, high-end e-commerce mobile application built using Flutter and Dart. The app features a luxury minimalist aesthetic, custom smooth animations, and a dynamic AI-powered mix-and-match fashion stylist engine.
