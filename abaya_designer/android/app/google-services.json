@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "257992251767",
+    "project_id": "abaya-designer-396ca",
+    "storage_bucket": "abaya-designer-396ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257992251767:android:725e19f013631028c06972",
+        "android_client_info": {
+          "package_name": "com.example.abaya_designer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257992251767-lu7fr8i1mfel1ggo4qhfq2gu9c2r2jh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abaya_designer",
+            "certificate_hash": "cc217ba14c109c51ce82af2714bb3d71d5c11dd2"
+          }
+        },
+        {
+          "client_id": "257992251767-86985jm648l7gcveqock58rvnmkmv5uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdIC9pfDvJ4f-IElfY2mGLOd4YsEouPyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257992251767-86985jm648l7gcveqock58rvnmkmv5uv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257992251767-7p4p6d3j5jovui2bdklqscflkrs7rhho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.abayaDesigner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
