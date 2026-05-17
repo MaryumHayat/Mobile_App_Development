@@ -1,7 +1,3 @@
-Here is the final, comprehensive **`README.md`** file. It now includes an open-source **MIT License** section and integrates the **Developer Options/Phone Connection Guide** right into the documentation so anyone looking at your GitHub repository knows exactly how to set it up and run it on their own physical device.
-
-Copy and paste everything inside the block below:
-
 ```markdown
 # Abaya Designer 👗✨
 
@@ -52,7 +48,7 @@ const String groqApiKey = "YOUR_GROQ_API_KEY_HERE";
 
 1. Clone this repository to your local machine:
 ```bash
-git clone [https://github.com/your-username/abaya-designer.git](https://github.com/your-username/abaya-designer.git)
+git clone [https://github.com/MaryumHayat/Mobile_App_Development.git](https://github.com/MaryumHayat/Mobile_App_Development.git)
 
 
 ```
@@ -73,8 +69,6 @@ flutter pub get
 
 
 ```
-
-
 
 ```
 4. Setup your `lib/api_config.dart` credentials file as instructed above.
