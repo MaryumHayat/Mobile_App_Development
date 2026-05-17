@@ -118,9 +118,3 @@ Copyright (c) 2026 Maryum Hayat.
 This software and its associated documentation files are proprietary. No part of this project may be copied, modified, distributed, compiled, or used for any purpose—commercial or non-commercial—without the explicit, written permission of the copyright owner. 
 
 If you wish to use or build upon this project, you must contact the author directly to obtain a formal license.
-
-
-```
-
-
-```
